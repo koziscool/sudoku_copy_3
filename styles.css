@@ -1,0 +1,28 @@
+
+.outer-block {
+  background-color:black;
+}
+
+.outer-block-row {
+
+}
+
+.outer-block-data {
+
+}
+
+.inner-block {
+  background-color:grey;
+}
+
+.inner-block-row {
+
+}
+
+.inner-block-data {
+
+}
+
+.cell-input{
+  text-align: center;
+}
